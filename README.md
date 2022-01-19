@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Analytical Chemistry
 - 🌱 I’m currently learning ... Quantum Chemistry
 - 💞️ I’m looking to collaborate on ... Assignments
+- My favorite hobby ... to swim!
 
 <!---
 gillec1/gillec1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
